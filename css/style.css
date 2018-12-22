@@ -1,0 +1,22 @@
+body {
+    background: #fff;
+}
+
+.btn-brand {
+    color: #ffffff;
+}
+
+.btn {
+    border-radius: 2rem;
+    padding: .375rem 2.75rem;
+    font-weight: bold;    
+}
+
+.navbar-brand {
+    letter-spacing: .4em;
+}
+
+.nav-link {
+    font-weight: 400;
+    font-size: 1.3em;
+}
