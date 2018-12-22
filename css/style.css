@@ -1,11 +1,8 @@
 body {
-    background: #000;
+    background: #fff;
 }
 
 .btn-brand {
-    background: #17ff3e;
-    border-color: #17ff3e;
-    text-shadow: 1px 1px 0px #111111;
     color: #ffffff;
 }
 
@@ -22,13 +19,4 @@ body {
 .nav-link {
     font-weight: 400;
     font-size: 1.3em;
-}
-
-
-.bl-cyan {
-    border-left: 2px solid #64f8ff;
-}
-
-.pt-10 {
-    padding-top: 10rem;
 }
