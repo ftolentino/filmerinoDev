@@ -1,5 +1,9 @@
+
+
 body {
     background: #fff;
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .btn-brand {
@@ -11,4 +15,19 @@ body {
     border-radius: 2rem;
     padding: .375rem 1rem;
     font-weight: bold;    
+}
+
+.homepage-wrapper {
+    padding-top: 72px;
+}
+
+ul li a:hover {
+    border-top: 2px solid #d5413d;
+}
+
+h1 {
+    font-size: 56px;
+    font-weight: 100;
+    letter-spacing: -.03em;
+    line-height: 72px;
 }
